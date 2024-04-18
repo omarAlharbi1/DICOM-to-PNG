@@ -2,7 +2,10 @@
 convert Dicom to PNG and store metadata as JSON if you want
 
 # How to use it
-Just install PyDicom,
+Just install PyDicom by this code,
+ ```bash
+pip install pydicom
+```
 then just run the python file,
 it will ask you to write either the folder that contains DICOM files,
 or just write the DICOM file location,
